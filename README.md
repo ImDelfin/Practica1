@@ -1,2 +1,2 @@
 # Practica1
-Trabajo practico para POO
+Trabajo de campo POO, nuestro trabajo se basa en la creacion de una calculadora funcional usando Java
